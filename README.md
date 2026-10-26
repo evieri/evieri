@@ -1,42 +1,41 @@
-# Pablo Tavares
+# Emmanuel Vieri
 
-Software engineer, 4 years in, mostly **Java** and **Spring Boot** on the backend with **TypeScript**, **Vue** and **React** on the front.
+Software engineer, B.Sc. in Science and Technology and current M.Sc. student in Science, Technology, and Innovation at **UFRN**. Primary focus on **Python** and **FastAPI** on the backend with **PostgreSQL**, **Docker**, and applied **Machine Learning** / **RAG** systems.
 
-Right now I work on **SIG-UFRN**, an integrated management platform used by over a million people across Brazil, and I research at **LANCE**, a UFRN lab run in partnership with Lenovo. Before that I spent two years in HR technology, where I built an LLM compliance assistant on AWS Bedrock and a time-tracking system covering 850,000+ employees.
+Right now I work as a software engineer at **Faceponto** and conduct research at **UFRN / FINEP** on machine learning applied to seismic data. Before that, I architected the backend for a national public health platform for the **Santos Dumont Institute** and the **Ministry of Health**, enforcing strict LGPD/RBAC compliance and cutting cloud streaming costs to zero at launch.
 
-I like problems where scale is the hard part — where the naive solution works fine for a thousand users and falls over at a million.
+I like building contract-driven backend architectures, clean APIs, and solving complex problems at the intersection of software engineering, data systems, and applied AI.
 
 ---
 
 ### Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ne0MM&hide_border=true&theme=github-dark">
-  <img src="https://streak-stats.demolab.com?user=Ne0MM&hide_border=true" alt="Contribution streak" height="165">
+	<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&hide_border=true&theme=github-dark">
+	<img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&hide_border=true" alt="Contribution streak" height="165">
 </picture>
 
 ---
 
 ### Elsewhere
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-tavares-dev/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pablomaximiliano260@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelvieri)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emmanuel.vieri@gmail.com)
 
-Open to relocating internationally — feel free to reach out.
+Open to backend & AI engineering opportunities — feel free to reach out.
