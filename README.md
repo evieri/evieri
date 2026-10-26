@@ -27,8 +27,8 @@ I like building contract-driven backend architectures, clean APIs, and solving c
 ### Activity
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&hide_border=true&theme=github-dark">
-	<img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&hide_border=true" alt="Contribution streak" height="165">
+	<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=evieri&hide_border=true&theme=github-dark">
+	<img src="https://streak-stats.demolab.com?user=evieri&hide_border=true" alt="Contribution streak" height="165">
 </picture>
 
 ---
